@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1459883139 source:c:\users\gustavo\desktop\esqueletotp1  v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459883085 c:\users\gustavo\desktop\esqueletotp1  v2\funciones.h
+
+1459902412 source:e:\esqueletotp1  v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459895152 e:\esqueletotp1  v3\funciones.h
+
+1460079248 source:d:\esqueletotp1  v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459979814 d:\esqueletotp1  v3\funciones.h
+
+1460154472 source:d:\esqueletotp1  v3 - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1460151388 d:\esqueletotp1  v3 - 2\funciones.h
+
+1460158074 source:d:\tp1_laurenzano\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1460158298 d:\tp1_laurenzano\funciones.h
+
+1460158074 source:f:\tp1_laurenzano\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1460158298 f:\tp1_laurenzano\funciones.h
+
